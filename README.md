@@ -1,5 +1,5 @@
 # ISSA---Road-Lane-Detector
-A road lane detector 
+A road lane detector made in Python during my practice at Continental
 
 
     # 1. Import necessary libraries and start code
